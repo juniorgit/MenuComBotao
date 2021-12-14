@@ -1,4 +1,4 @@
-### MenuComBotao
+### Projeto
 Exemplo mostra como adicionar um pequeno botão ao lado de um menu em um programa Windows Desktop<br/>
 _This sample shows how to add a small button inside a menu on a Desktop Windows program_
 
